@@ -17,4 +17,4 @@ For information on the mask, send an e-mail to mypapermask@gmail.com
 
 This mask does not replace the protective measures recommended by the authorities in the COVID-19 crisis. 
 
-<a href="README.md">French version </a> 
+<a href="https://papermask.github.io/papermask/">French version </a> 
