@@ -7,7 +7,6 @@ This face mask has been designed and created by a veterinary practitionner. The 
 # Tutorial
 Click on this link to access the step-by-step instructions: <a href="http://papermask.github.io/papermask/FaceMaskTutorial.pdf " target="_blank"> Face Mask Tutorial </a>
 
-Click on this link to access the tutorial on YouTube: <a href="https://youtu.be/8fnABEBYyQk" target="_blank"> video tutorial </a>
 
 # Mask Pattern
 * <a href="http://papermask.github.io/papermask/USPattern.pdf" target="_blank"> Mask pattern  (US Letter Size) </a>
